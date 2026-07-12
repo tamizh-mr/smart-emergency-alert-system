@@ -13,8 +13,7 @@ AI-powered IoT safety system that detects gas, fire &amp; distress calls and aut
 
 ## 📸 Project Photos
 
-<img src="pic" width="45%"/>
-<img src="Project outlook" width="45%"/>
+<img src="photos/hardware.jpg" width="60%"/>
 
 ---
 

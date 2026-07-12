@@ -1,0 +1,6 @@
+*.o
+*.bin
+*.hex
+.vscode/
+build/
+.DS_Store
